@@ -1,0 +1,20 @@
+{
+  "name": "karma-istanbul-report-reporter",
+  "version": "0.0.1",
+  "description": "A Karma plugin that allows the addition of custom reports to Istanbul code coverage tool",
+  "main": "lib\\index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" & exit 1"
+  },
+  "keywords": [
+    "karma-reporter",
+    "karma-plugin",
+    "istanbul",
+    "istanbuljs"
+  ],
+  "author": "Cristian Mardare",
+  "license": "ISC",
+  "dependencies": {
+    "istanbul-api": "^1.2.1"
+  }
+}
