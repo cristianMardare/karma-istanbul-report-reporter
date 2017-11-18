@@ -1,6 +1,6 @@
 {
   "name": "karma-istanbul-report-reporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Karma plugin that allows the addition of custom reports to Istanbul code coverage tool",
   "main": "lib\\index.js",
   "scripts": {
