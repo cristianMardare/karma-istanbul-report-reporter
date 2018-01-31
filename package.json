@@ -4,7 +4,7 @@
   "description": "A Karma plugin that allows the addition of custom reports to Istanbul code coverage tool",
   "main": "lib\\index.js",
   "scripts": {
-    "test": "echo \"No tests yet\" & exit 1"
+    "test": "echo \"No tests yet\" & exit 0"
   },
   "keywords": [
     "karma-reporter",
@@ -15,6 +15,9 @@
   "author": "Cristian Mardare",
   "license": "ISC",
   "dependencies": {
-    "istanbul-api": "^1.2.1"
+    "istanbul-api": "1.2.1"
+  },
+  "devDependencies": {
+    "semantic-release": "12.4.1"
   }
 }
